@@ -1,0 +1,19 @@
+/* Created by: Mr. Coxall
+ * Created on: Sep 2020
+ * This CSS file defines the style for index.html ICS2O-Unit1-04-HTML-CSS
+*/
+
+body {
+  background-color: black;
+}
+
+h1 {
+  background-color: rgb(80 30 150);
+  color: hsl(147deg 50% 47%);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #3ef1f4;
+}
